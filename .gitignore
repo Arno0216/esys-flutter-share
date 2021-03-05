@@ -16,3 +16,9 @@ build/
 
 # Visual Studio Code related
 .vscode/
+
+example/.flutter-plugins-dependencies
+
+example/ios/Flutter/Flutter.podspec
+
+example/ios/Flutter/flutter_export_environment.sh
